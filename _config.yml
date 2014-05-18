@@ -1,0 +1,10 @@
+# Site settings
+title: Agile - Linux, Web, Cloud & Open Source
+description: "This blog is where I post interesting things I've learned during my day to day life of Agile Software Project management and Web Software Development, it has an emphasis about Open Sources solutions, Linux, Cloud infrastructure as code, Software Testing and Agile methodologies like Scrum, Kanban and Lean."
+baseurl: ""
+url: "http://www.odr.lu"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+github_username: oswaldderiemaecker
